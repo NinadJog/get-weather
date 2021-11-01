@@ -15,7 +15,7 @@ import data._
 // For the code to work, you will have to provide your own API key below.
 
 def exclude = "minutely,hourly,daily"
-def apiKey  = "e85bc3f595e4bf429fa980c174f557cb" // Provide your own API key
+def apiKey  = "<Your API Key goes here!>" // Provide your own API key
 def units   = "metric"  // Temperature in degrees Celsius
 
 //------------------------------------------------------------------------------------
